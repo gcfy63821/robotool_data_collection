@@ -1,0 +1,19 @@
+AprilTag Detection Summary
+========================
+Video: /home/robot/drive/robotool/videos_0903/brush_sweep_nuts/head/20250904_124023/episode_1_main_cam_video.mp4
+Total frames processed: 888
+Frames with valid transforms: 888
+Tag size: 0.05
+Camera intrinsics: [600.0, 600.0, 640.0, 240.0]
+
+Average Camera Transformation:
+[[-0.99769104  0.01991084 -0.06492845  0.19172345]
+ [-0.00956345 -0.98771995 -0.15594044 -0.13080202]
+ [-0.06723604 -0.15495947  0.98563021 -1.67524599]
+ [ 0.          0.          0.          1.        ]]
+
+Position: [0.191723, -0.130802, -1.675246]
+Rotation matrix:
+[[-0.99769104  0.01991084 -0.06492845]
+ [-0.00956345 -0.98771995 -0.15594044]
+ [-0.06723604 -0.15495947  0.98563021]]
