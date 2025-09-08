@@ -25,3 +25,9 @@ and run in robotool repo:
 ## Data Processing
 
 after collecting data, run convert_npy_to_h5.py to generate the needed data format.
+
+## Update on exp management
+
+now run managed_collect_whole_data and managed_collect_robotool_data with --task_name and --exp_name for file management.
+
+the saved file will be in same directory and managed automatically.
